@@ -1,0 +1,7 @@
+[package]
+name = "togglebar"
+version = "0.1.0"
+authors = ["leopold"]
+
+[dependencies]
+gio = "0.4.0"
